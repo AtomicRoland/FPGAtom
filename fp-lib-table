@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RL_Acorn_Atom_PS2)(type Legacy)(uri ${KIPRJMOD}/RL_Acorn_Atom_PS2.mod)(options "")(descr ""))
+  (lib (name FGPAmodule)(type KiCad)(uri ${KIPRJMOD}/FGPAmodule.pretty)(options "")(descr ""))
+  (lib (name RL_audio)(type KiCad)(uri ${KIPRJMOD}/RL_audio.pretty)(options "")(descr ""))
+)

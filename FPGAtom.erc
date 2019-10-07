@@ -1,0 +1,13 @@
+ERC report (Monday, 18 March 2019 at 22:49:31, Encoding UTF8 )
+
+***** Sheet /
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (190.50 mm,46.99 mm): Pin 46 (Power input) of component U10 is not driven (Net 77).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (208.28 mm,46.99 mm): Pin 1 (Passive) of component D4 is not driven (Net 79).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (370.84 mm,119.38 mm): Pin 1 (Power input) of component #PWR0118 is not driven (Net 96).
+ErrType(3): Pin connected to some others pins but no pin to drive it
+    @ (232.41 mm,270.51 mm): Pin 1 (Power input) of component #PWR0108 is not driven (Net 124).
+
+ ** ERC messages: 4  Errors 0  Warnings 4

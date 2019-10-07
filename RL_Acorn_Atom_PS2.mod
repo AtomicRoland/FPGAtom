@@ -1,0 +1,87 @@
+PCBNEW-LibModule-V1  Saturday, 23 August 2014 16:45:23
+# encoding utf-8
+Units mm
+$INDEX
+PS2
+$EndINDEX
+$MODULE PS2
+Po 0 0 0 15 53F8A83F 00000000 ~~
+Li PS2
+Sc 0
+AR 
+Op 0 0 0
+T0 7.62 6.35 1 1 0 0.15 N V 21 N "PS2"
+T1 -6.35 6.35 1 1 0 0.15 N V 21 N "VAL**"
+DS 8.89 -6.35 8.89 -5.08 0.15 21
+DS 8.89 -5.08 8.89 -6.35 0.15 21
+DS -8.89 7.62 8.89 7.62 0.15 21
+DS 8.89 -5.08 -8.89 -5.08 0.15 21
+DS -8.89 -6.35 8.89 -6.35 0.15 21
+DS 8.89 0 8.89 7.62 0.15 21
+DS 8.89 0 8.89 -5.08 0.15 21
+DS -8.89 -6.35 -8.89 7.62 0.15 21
+$PAD
+Sh "2" C 2 2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 1.27 1.27
+$EndPAD
+$PAD
+Sh "4" C 2 2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 1.27
+$EndPAD
+$PAD
+Sh "1" C 2 2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -1.27 1.27
+$EndPAD
+$PAD
+Sh "3" C 2 2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 1.27
+$EndPAD
+$PAD
+Sh "5" C 2 2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -3.81 3.81
+$EndPAD
+$PAD
+Sh "6" C 2 2 0 0 0
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 3.81 3.81
+$EndPAD
+$PAD
+Sh "~" C 3.25 3.25 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 6.35 -1.27
+$EndPAD
+$PAD
+Sh "~" C 3.25 3.25 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po -6.35 -1.27
+$EndPAD
+$PAD
+Sh "~" C 3.25 3.25 0 0 0
+Dr 2 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+Po 0 -2.54
+$EndPAD
+$EndMODULE PS2
+$EndLIBRARY

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name FPGAtom)(type Legacy)(uri /Users/roland/KiCad/FPGAtom/FPGAtom.lib)(options "")(descr ""))
+  (lib (name Connector_DIN)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Connector_DIN)(options "")(descr ""))
+  (lib (name FPGAtom-rescue)(type Legacy)(uri ${KIPRJMOD}/FPGAtom-rescue.lib)(options "")(descr ""))
+)
